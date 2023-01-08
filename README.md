@@ -2,7 +2,7 @@
 a geolocation desktop web-app to help cyclists and runners with their workout routes
 
 1.Project Title
-Mapty
+=Mapty
 
 2.Description
 This is a desktop web application to be used to track workouts(Running and Cycling). 
